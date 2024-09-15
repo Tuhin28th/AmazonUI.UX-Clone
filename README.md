@@ -6,7 +6,7 @@ Responsive Design: Optimized for different screen sizes using CSS.<br>
 Navigation Bar: Includes a logo, search bar, and cart functionality placeholder.<br>
 Hero Section: Displays a static or sliding banner, replicating the Amazon homepage.<br>
 Shop Section: Styled to showcase featured products in a grid layout.<br>
-Manual Image Slider: Allows users to manually switch between hero images without JavaScript automation.<br>
+Manual Image Slider: Allows users to manually switch between hero images without JavaScript automation.<br><br>
 Technologies Used:<br>
 HTML5 for structuring the content.<br>
 CSS3 for styling and layout, including flexbox for responsive design.<br>
